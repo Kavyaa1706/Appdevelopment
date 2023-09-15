@@ -1,0 +1,89 @@
+.asec{
+    height: 744px;
+    width: 1519px;
+}
+
+.user1{
+    position: absolute;
+    z-index: 10;
+    margin-left: 66%;
+    color: rgb(215, 109, 176);
+    margin-top: 14%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.input{
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 60%;
+    height: 35px;
+    width: 300px;
+    border-radius: 15px;
+    opacity: 0.7;
+}
+
+.in2{
+    position: absolute;
+    margin-top: -20%;
+    margin-left: 60%;
+    height: 35px;
+    width: 300px;
+    border-radius: 15px;
+    opacity: 0.7;
+}
+.btn1{
+    position: absolute;
+    margin-top: -14%;
+    margin-left: 66%;
+    width: 130px;
+    height: 35px;
+    font-size: 1.1rem;
+    border-radius: 10px;
+    background-color: rgb(215, 109, 176);
+    cursor: pointer;
+
+}
+.btn1:hover{
+    background-color: rgb(196, 16, 124);
+    transition: 0.1s;
+}
+.box1{
+    position: absolute;
+    width: 450px;
+    height: 350px;
+    background-color: black;
+    margin-top: -37%;
+    margin-left: 55.5%;
+    border-radius: 50px;
+    opacity: 0.8;
+}
+.error{
+    position: absolute;
+    font-size: 0.75rem;
+    color: red;
+    margin-top: -26.8%;
+    margin-left: 60.5%;
+}
+.success{
+    position: absolute;
+    font-size: 1rem;
+    color: rgba(0, 255, 55, 0.673);
+    margin-top: -32.5%;
+    margin-left: 62%;
+}
+.fix{
+    margin-top: -4%;
+}
+.acc{
+    position: absolute;
+    color: white;
+    margin-left: 62.5%;
+    margin-top: -12%;
+    font-size: 0.9rem;
+}
+.in{
+    text-decoration: none;
+    color:rgb(196, 16, 124);
+    font-weight: 600;
+    font-size: 1rem;
+}

@@ -1,0 +1,62 @@
+.navbar-brand{
+    position: absolute;
+    font-size:1.8rem ;
+    text-decoration: none;
+    top: 2.5%;
+    margin-left: 3%;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container-fluid {
+    background-color:#000;
+    height: 80px;
+
+}
+.navbar {
+    background-color: #000;
+}
+.btn-outline-light{
+    margin-right: 3%;
+    
+}
+.btn-outline-light:hover{
+    background-color: green;
+}              
+.abt{
+    color: #fff;
+    font-size: 1.5rem;
+    margin-left: 24%;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.kal{
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20%;
+}
+.fli{
+    color: #fff;
+    font-size: 1.5rem;
+    margin-left: 25%;
+    text-decoration: none;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.lgn{
+    color: #fff;
+    font-size: 1.5rem;
+    margin-left: 25%;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.dive{
+    position: absolute;
+    margin-left: 57%;
+    padding: 1.5%;
+    padding-inline-start: 2%;
+}

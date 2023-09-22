@@ -1,0 +1,94 @@
+.nav{
+margin-top: -1%;
+margin-left: -1%;
+width: 1525px;
+}
+.user {
+    position: absolute;
+    right: 1%;
+    margin-top: -10%;
+}
+.username-color{
+    color:rgb(95, 1, 184);
+    margin-top: -10%;
+}
+.welcome{
+    background-color:rgb(215, 109, 176) ;
+    margin-top: -42.7%;
+    height: 40px;
+    width: 270px;
+    margin-left:70%;
+}
+.wel{
+    margin-top: -12%;
+    margin-left:6%;
+    font-size: 1.5rem;
+    text-align: center;
+   
+}
+.fog{
+    position: absolute;
+    height: 550px;
+   width: 1200px;
+   background-color: whitesmoke;
+   opacity: 0.5;
+   margin-top: 5%;
+   margin-left:1.5% ;
+}
+.ce{
+    position: absolute;
+    color: #000;
+    font-size:6rem;
+    margin-top:-14%;
+    margin-left:-26%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline ;
+    text-align: center;
+}
+.fs{
+    font-size:1.5rem;
+ margin-left:3%;
+ text-align:left;
+ margin-top:3%;
+}
+.quote{
+    position: absolute;
+    margin-left:-37.5%;
+    margin-top:-2%;
+    font-size:2.5rem;
+    /* font-weight:400; */
+    color:rgb(0, 0, 0);
+    font-family:cursive;
+}
+.color{
+    position: absolute;
+    color: rgb(255, 0, 153) ;
+    margin-left:1.5%;
+    margin-top:-2%;
+    font-size:2.5rem;
+    font-family:cursive;
+    text-decoration: underline;
+    
+}
+.life{
+    position: absolute;
+    margin-left:17.5%;
+    margin-top:-2%;
+    font-size:2.5rem;
+    font-family:cursive;
+}
+.guest{
+position:absolute;
+margin-left:-24%;
+    margin-top:5.2%;
+font-size:4rem;
+color: rgb(255, 0, 153) ;
+
+}
+.events{
+    position:absolute;
+    font-size:2.5rem;
+    font-family:cursive;
+    margin-top:6%;
+    margin-left:-2%;
+}

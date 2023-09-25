@@ -1,0 +1,41 @@
+.background{
+    height:820px;
+    width: 1526px;
+    background-color: #FFE0E9
+    ;
+    margin-left: -1%;
+}
+.nb{
+   margin-top: -55%;
+   margin-left: -1%;
+   width: 1526px;
+}
+.pp{
+    margin-top: -48%;
+    font-weight: 100;
+    margin-left: 43%;
+    text-decoration: underline;
+}
+.pp{
+    position: absolute;
+}
+.ppara{
+    margin-top: -44%;
+    font-size: 1.2rem;
+    margin-left: 4%;
+}
+.ppara1{
+    margin-top:3%;
+    font-size: 1.2rem;
+    margin-left: 7%;
+}
+.policy{
+    font-size: 1.2rem;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.footer{
+    position: absolute;
+    margin-top: -100%;
+    width: 1510px;
+}

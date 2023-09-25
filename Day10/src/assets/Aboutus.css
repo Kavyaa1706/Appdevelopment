@@ -1,0 +1,45 @@
+.class{
+    position: absolute;
+    background-color: #E9E2F3;
+    height: 900px;
+    width: 1526px;
+    margin-left: -1%;
+    margin-top: 9%;
+}
+.what{
+    position: absolute;
+    font-weight: 100;
+    font-size: 2.5rem;
+    margin-left: 36.5%;
+}
+.creating{
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 39.2%;
+    font-size: 1.2rem;
+}
+.fun{
+    position: absolute;
+    font-weight: 90;
+    margin-top: 62%;
+    margin-left: 60%;
+}
+.uss{
+    position: absolute;
+    height: 850px;
+    width:640px; 
+    margin-top: 11%;
+    margin-left: 1.5%;
+}
+.abtuspara{
+    text-indent: 40px;
+    position: absolute;
+    margin-top:11.5% ;
+    margin-left: 46%;
+    font-size: 1.2rem;
+    line-height: 30px;
+}
+.foots{
+   
+    margin-top: -31.2%;
+}

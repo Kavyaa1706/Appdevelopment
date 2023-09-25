@@ -1,0 +1,93 @@
+/* .navbar-brand1{
+    position: absolute;
+    font-size:1.8rem ;
+    text-decoration: none;
+
+    color: #cf1010;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+.container-fluid1 {
+  
+    background-color:#000;
+    height: 60px;
+    margin-top: 100%;
+    margin-left: -1%;
+    width: 1526px;
+
+}
+.navbar1 {
+   
+    background-color: #000;
+}
+.btn-outline-light{
+    margin-right: 3%;
+    
+}
+.btn-outline-light:hover{
+    background-color: green;
+}              
+.admin{
+    position: absolute;
+    color: #fff;
+    font-size: 1rem;
+    margin-left: 90.5%;
+    margin-top: 1.5%;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.kal{
+    position: absolute;
+    color: #fff;
+    font-size: 1rem;
+    margin-left: 71.5%;
+    margin-top: 1.5%;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.copyright{
+    position: absolute;
+    color: #fff;
+    font-size: 1rem;
+    margin-left: 3%;
+    margin-top: 1.5%;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.faq{
+    position: absolute;
+    color: #fff;
+    font-size: 1rem;
+    margin-left: 95%;
+    margin-top: 1.5%;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.tc{
+    position: absolute;
+    color: #fff;
+    font-size: 1rem;
+    margin-left: 79%;
+    margin-top: 1.5%;
+    text-decoration: none;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.lgn{
+    color: #fff;
+    font-size: 1.5rem;
+    margin-left: 25%;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.dive1{
+    position: absolute;
+    margin-left: 57%;
+    padding: 1.5%;
+    padding-inline-start: 2%;
+}

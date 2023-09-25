@@ -1,0 +1,89 @@
+.navbar-brand{
+    position: absolute;
+    font-size:1.8rem ;
+    text-decoration: none;
+    top: 2.5%;
+    margin-left: 3%;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container-fluid {
+    background-color:#191308 
+    ;
+    height: 80px;
+
+}
+.navbar {
+    
+    background-color: #191308
+    ;
+}
+.btn-outline-light{
+    margin-right: 3%;
+    
+}
+.btn-outline-light:hover{
+    background-color: green;
+}   
+.abts{
+    text-decoration: none;
+}           
+.abtus{
+    color: #fff;
+    font-size: 1.5rem;
+    margin-left: 290%;
+    margin-top: -30%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.homeee{
+    color: #fff;
+    font-size: 1.5rem;
+    margin-left: 170%;
+    margin-top: 7%;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.fli{
+    color: #fff;
+    font-size: 1.5rem;
+    margin-left: 435%;
+    margin-top: -31%;
+    text-decoration: none;
+    background-color: #000;
+    border: none;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.lgn1{
+   position: absolute;
+    background-color: #86d5f0;
+    color: #000;
+    height: 35px;
+    font-size: 1rem;
+    margin-top: -22%;
+    margin-left: 340%;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.lgn1:hover{
+    background-color:  #76A787;
+    transition: 0.4s;
+    cursor: pointer;
+}
+.dive{
+    position: absolute;
+    margin-left: 57%;
+    padding: 1.5%;
+    padding-inline-start: 2%;
+}
+.hom{
+    text-decoration: none;
+}
+.flis{
+    text-decoration: none;
+}
